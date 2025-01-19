@@ -1,5 +1,4 @@
 
-export const apiKey='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'
 export const dummyMessages = [
     { role: 'user', content: 'Hi, how are you?' },
     { role: 'assistant', content: 'I am fine, thank you!' },
